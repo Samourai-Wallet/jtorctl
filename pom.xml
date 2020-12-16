@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>net.freehaven.tor.control</groupId>
   <artifactId>jtorctl</artifactId>
-  <version>0.2</version>
+  <version>0.2-samourai</version>
   <name></name>
   <url>https://github.com/guardianproject/jtorctl</url>
   <description>A Java library for controlling a Tor instance via its control port.</description>
